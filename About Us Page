@@ -50,7 +50,7 @@
         <a href=""><i class="fa-sharp fa-solid fa-bars"id="menu"></i></a>
     </div>
 </nav>
-<body class="bg-gray-50">
+<body class="bg-gray-50" >
     <div class="relative bg-white">
         <div class="h-[600px] relative overflow-hidden">
             <div class="absolute inset-0">
