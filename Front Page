@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WonderlightAdventure.com</title>
+    <link rel="stylesheet" href="/css/WonderlightAdventure.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+<body>
+    <nav><img src="/photo/WonderlightAdventureLogo.jpg" alt="Logo" class="logo"><h2 id="name">Wonderlight Adventure</h2>
+        <ul class="navbar">
+            <a href="/html/WonderlightAdventure.html" class="active">Home</a>&nbsp;&nbsp;&nbsp;
+            <a href="/html/WonderlightAdventureAboutUsPage.html">About Us</i></a>&nbsp;&nbsp;&nbsp;
+            <a href="">Package</a>&nbsp;&nbsp;&nbsp;
+            <a href="">Event</a>&nbsp;&nbsp;&nbsp;
+            <a href="/html/WonderlightAdventureContactUsPage.html">Contact Us</a>
+        </ul>
+
+        <div class="login">
+            <a href="/html/WonderlightAdventureLoginPage.html" class="user">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><i class="fa-solid fa-magnifying-glass"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <a href=""><i class="fa-sharp fa-solid fa-bars"id="menu"></i></a>
+        </div>
+    </nav>
+    <main>
+        <section class="outer">
+            <section class="inner">
+                <h1><b>Unlock the World - Your Journey Begins Here!</b></h1>
+                <h2>Explore the Heart of India</h2>
+            </section>
+        </section>
+    </main>
+    <footer></footer>
+</body>
+</html>
